@@ -1,4 +1,4 @@
-### 这个仓库的数据不维护了，推荐使用阿里云的 DataV 工具下载相关地图数据  https://datav.aliyun.com/tools/atlas/index.html 
+### 这个仓库的数据不维护了，推荐使用阿里云 DataV 的工具下载相关地图数据  https://datav.aliyun.com/tools/atlas/index.html 
 
 update: 2021.11.16
 
