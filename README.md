@@ -1,3 +1,9 @@
+### 这个仓库的数据不维护了，推荐使用阿里云的 DataV 工具下载相关地图数据  https://datav.aliyun.com/tools/atlas/index.html 
+
+update: 2021.11.16
+
+--- 
+
 Echarts 地图数据，各个目录存放文件说明：
 
 - world 目录，世界地图及世界各国地图，包含 JS 与 GeoJSON 格式，包含映射文件。
